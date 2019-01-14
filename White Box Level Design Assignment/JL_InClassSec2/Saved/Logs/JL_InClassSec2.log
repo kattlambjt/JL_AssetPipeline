@@ -1191,3 +1191,18 @@ LogInit: Object subsystem initialized
 [2019.01.14-21.43.44:826][130]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2019.01.14-21.43.45:120][130]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_WBStreetACFAF847443693A0C5DFABB6582C1001.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/JL_WBStreet.umap'
 [2019.01.14-21.43.45:161][130]LogFileHelpers: Saving map 'JL_WBStreet' took 0.329
+[2019.01.14-21.45.35:551][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.46.09:168][393]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/MI_WhiteBoxGerass_JL.MI_WhiteBoxGerass_JL
+[2019.01.14-21.46.20:153][601]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.14-21.46.21:352][735]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MI_WhiteBoxGerass_JL, compiling. 
+[2019.01.14-21.46.21:761][735]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.01.14-21.46.21:762][735]TextureStreamingBuild: Display: Compiling optional shaders took 0.413 seconds.
+[2019.01.14-21.46.21:795][735]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/MI_WhiteBoxGerass_JLE6F4AF31472AE282C88B0F9E8268714A.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/MI_WhiteBoxGerass_JL.uasset'
+[2019.01.14-21.46.30:645][753]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.14-21.46.37:852][572]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.46.57:786][837]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.47.10:044][250]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.14-21.47.35:991][142]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.47.37:035][264]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.14-21.47.37:286][264]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_WBStreet18B3904B4BD1AA4946DAA98EFF73D8B4.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/JL_WBStreet.umap'
+[2019.01.14-21.47.37:312][264]LogFileHelpers: Saving map 'JL_WBStreet' took 0.270
