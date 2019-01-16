@@ -575,3 +575,902 @@ LogInit: Object subsystem initialized
 [2019.01.16-20.53.17:647][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mann" FILE="../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/mann.uasset" SILENT=true
 [2019.01.16-20.53.17:668][  5]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/mann6935EB7147EF94B041692A8DA34D4D85.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/mann.uasset'
 [2019.01.16-20.53.17:684][  5]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/SM_hatMat4FD2DC4E4D10A1019309DB865EC64209.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/SM_hatMat.uasset'
+[2019.01.16-20.54.37:743][941]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-20.54.39:778][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.55.42:945][246]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-20.55.44:688][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.56.11:395][407]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.56.14:744][807]Cmd: MODE GRID=0
+[2019.01.16-20.56.15:517][887]Cmd: MODE GRID=1
+[2019.01.16-20.56.34:107][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.56.37:093][377]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-20.56.38:720][560]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-20.56.43:928][155]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.56.50:267][872]LogEditorViewport: Clicking on Actor (LMB): Brush (Sphere Brush)
+[2019.01.16-20.56.55:382][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-20.57.16:962][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.57.28:780][337]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.57.37:095][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.57.43:959][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-20.57.55:653][236]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-20.58.01:057][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.58.18:539][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.58.27:055][679]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.58.30:404][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-20.58.46:545][810]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.59.02:476][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.59.10:798][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-20.59.27:542][504]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.16-20.59.42:964][290]Cmd: TRANSACTION UNDO
+[2019.01.16-20.59.42:964][290]LogEditorTransaction: Undo Move Actors
+[2019.01.16-20.59.43:129][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_27.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:130][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_87.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:133][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_71.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:133][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_48.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:133][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_52.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:135][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_45.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:135][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:146][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:148][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_17.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:149][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_50.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:151][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_208.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:152][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_150.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:152][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_66.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:152][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_166.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:154][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_252.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:155][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_209.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:156][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_213.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:159][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_118.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:159][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_122.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:160][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_93.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:160][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_97.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:162][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_145.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:162][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_59.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:163][290]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_133.BrushComponent0) Component already registered.
+[2019.01.16-20.59.43:968][353]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-20.59.45:314][488]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.00.07:539][913]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.01.06:115][452]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.02.46:027][991]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.02.48:456][239]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.02.57:194][177]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.03.16:486][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.01.16-21.03.20:130][811]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.03.33:108][264]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.04.02:031][433]Cmd: TRANSACTION UNDO
+[2019.01.16-21.04.02:031][433]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.04.02:220][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_54.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:220][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_114.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:221][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_34.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:224][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_125.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:226][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_133.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:226][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_122.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:230][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_30.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:231][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_44.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:243][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_80.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:244][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_22.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:245][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_26.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:247][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_181.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:250][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_70.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:250][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_140.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:251][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_166.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:252][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_177.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:254][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_7.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:256][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_201.BrushComponent0) Component already registered.
+[2019.01.16-21.04.02:256][433]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_73.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:602][194]Cmd: TRANSACTION UNDO
+[2019.01.16-21.04.09:602][194]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.04.09:767][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_95.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:769][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_35.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:771][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_71.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:772][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_48.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:776][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_15.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:787][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_53.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:789][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_19.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:791][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_165.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:793][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_185.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:798][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_116.BrushComponent0) Component already registered.
+[2019.01.16-21.04.09:801][194]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_53.BrushComponent0) Component already registered.
+[2019.01.16-21.04.28:095][242]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.04.42:580][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.04.45:950][220]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.04.48:545][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.04.59:411][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.05.09:977][778]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.05.19:934][949]Cmd: DELETE
+[2019.01.16-21.05.19:934][949]Cmd: ACTOR DELETE
+[2019.01.16-21.05.19:974][949]LogEditorActor: Deleted Actor: Brush
+[2019.01.16-21.05.20:243][949]LogEditorActor: Deleted 1 Actors (0.309 secs)
+[2019.01.16-21.05.26:972][731]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.05.28:441][889]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.05.30:332][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.05.39:736][ 97]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.05.52:471][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.06.29:539][746]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.06.46:391][473]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.09:558][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.15:776][893]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.07.20:356][393]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.31:636][630]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.32:732][732]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.07.36:100][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.38:857][194]LogSlate: Window 'Delete Assets' being destroyed
+[2019.01.16-21.07.40:382][361]Cmd: DELETE
+[2019.01.16-21.07.40:382][361]Cmd: ACTOR DELETE
+[2019.01.16-21.07.40:409][361]LogEditorActor: Deleted Actor: Brush
+[2019.01.16-21.07.40:683][361]LogEditorActor: Deleted 1 Actors (0.300 secs)
+[2019.01.16-21.07.41:686][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.07.44:122][684]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.07.44:908][763]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.08.09:903][585]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.08.11:349][585]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_MyCityBlock_Auto220CA13CA48621EA83D394281973BF34B.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/Autosaves/Game/JL_MyCityBlock_Auto2.umap'
+[2019.01.16-21.08.11:358][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/JL_MyCityBlock' took 1.420
+[2019.01.16-21.08.11:358][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.420
+[2019.01.16-21.08.27:125][398]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.08.52:397][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.09.04:290][367]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.09.17:974][771]Cmd: TRANSACTION UNDO
+[2019.01.16-21.09.17:974][771]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.09.18:199][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_9.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:223][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:223][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:224][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:224][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_35.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:230][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_206.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:230][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_69.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:232][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_166.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:232][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:233][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.09.18:233][771]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_222.BrushComponent0) Component already registered.
+[2019.01.16-21.09.19:578][882]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.09.24:811][350]Cmd: TRANSACTION UNDO
+[2019.01.16-21.09.24:811][350]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.09.25:031][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_9.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:052][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:053][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:054][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:054][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_35.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:060][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_206.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:061][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_69.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:061][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_166.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:062][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:062][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.09.25:063][350]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_222.BrushComponent0) Component already registered.
+[2019.01.16-21.09.33:772][256]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.09.56:829][708]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.10.03:077][315]Cmd: TRANSACTION UNDO
+[2019.01.16-21.10.03:077][315]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.10.03:305][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_9.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:330][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:330][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:331][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:331][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_35.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:337][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_206.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:338][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_69.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:338][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_166.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:339][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:339][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.10.03:340][315]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_222.BrushComponent0) Component already registered.
+[2019.01.16-21.10.06:547][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.10.14:031][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.10.33:455][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.10.52:321][235]Cmd: TRANSACTION UNDO
+[2019.01.16-21.10.52:321][235]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.10.52:540][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_9.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:564][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:565][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:566][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:566][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_35.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:572][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_206.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:573][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_69.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:573][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_166.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:573][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:574][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.10.52:575][235]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_222.BrushComponent0) Component already registered.
+[2019.01.16-21.10.54:534][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.11.26:004][886]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.11.59:724][915]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.12.41:225][898]Cmd: TRANSACTION UNDO
+[2019.01.16-21.12.41:225][898]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.12.41:445][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_84.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:446][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_116.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:446][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_120.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:447][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_105.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:447][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_93.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:448][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_104.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:449][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_45.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:449][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_57.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:450][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_75.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:450][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_63.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:451][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_151.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:452][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_61.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:453][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_371.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:453][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_172.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:454][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_160.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:455][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_131.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:455][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_106.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:455][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_112.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:456][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_124.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:456][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_142.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:457][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_130.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:458][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_16.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:459][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_9.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:460][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_7.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:460][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_43.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:461][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_57.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:461][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_6.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:484][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush2.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:486][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:486][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_40.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:487][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_39.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:488][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_100.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:489][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_96.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:490][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_12.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:491][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_19.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:491][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_32.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:492][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_221.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:494][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_174.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:495][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_233.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:495][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_184.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:497][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_203.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:498][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_196.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:498][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_2.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:501][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_32.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:501][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_13.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:502][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_4.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:504][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_24.BrushComponent0) Component already registered.
+[2019.01.16-21.12.41:505][898]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_6.BrushComponent0) Component already registered.
+[2019.01.16-21.13.06:516][807]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.13.07:913][960]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.13.48:665][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.13.49:893][309]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.13.54:181][762]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.14.07:661][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.14.42:123][948]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.15.10:675][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.16.15:451][814]LogEditorViewport: Clicking on Actor (LMB): SphereReflectionCapture (SphereReflectionCapture)
+[2019.01.16-21.16.36:674][123]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.16.44:783][ 19]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.16.51:691][773]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.16.56:022][220]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.17.01:855][768]Cmd: TRANSACTION UNDO
+[2019.01.16-21.17.01:856][768]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.17.02:075][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_53.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:076][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_106.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:077][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_124.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:077][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_53.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:079][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_111.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:081][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_158.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:082][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_174.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:083][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_152.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:083][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_121.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:085][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_60.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:087][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_3.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:087][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_7.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:088][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_51.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:088][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_53.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:089][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_58.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:115][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_11.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:116][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_31.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:117][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_19.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:117][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_1.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:118][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_95.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:118][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_87.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:119][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_45.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:119][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_44.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:120][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_35.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:121][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_54.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:121][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_11.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:122][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_62.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:122][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_127.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:123][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_70.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:124][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_21.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:125][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_226.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:126][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_242.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:126][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_176.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:127][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_189.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:130][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_198.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:131][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_15.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:132][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_6.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:133][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_31.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:134][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_9.BrushComponent0) Component already registered.
+[2019.01.16-21.17.02:137][768]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_20.BrushComponent0) Component already registered.
+[2019.01.16-21.17.22:865][969]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.17.33:717][ 84]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.17.45:620][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.18.02:952][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.18.12:312][162]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.18.19:671][888]Cmd: TRANSACTION UNDO
+[2019.01.16-21.18.19:671][888]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.18.19:896][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_84.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:897][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_89.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:897][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_120.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:898][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_115.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:899][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_123.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:902][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_106.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:902][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_51.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:902][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_54.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:903][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_41.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:904][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_46.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:904][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_67.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:905][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_72.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:906][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_111.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:907][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_64.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:907][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_156.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:908][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_371.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:908][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_159.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:909][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_146.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:911][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_170.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:913][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_121.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:914][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_57.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:914][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_126.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:915][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_113.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:917][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_370.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:917][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_139.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:918][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_138.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:920][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_134.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:920][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_59.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:922][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_2.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:922][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_7.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:922][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_12.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:923][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:925][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_21.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:951][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_19.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:952][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_39.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:953][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_14.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:953][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_9.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:954][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_86.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:954][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_24.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:954][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_92.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:955][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_80.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:956][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_33.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:958][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_12.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:958][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_78.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:958][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_62.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:958][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_50.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:959][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_9.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:959][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_34.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:960][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_75.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:960][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_69.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:961][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_31.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:961][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_232.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:962][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_227.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:962][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_219.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:962][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_214.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:962][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_170.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:963][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_245.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:963][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_240.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:963][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_250.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:963][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_237.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:964][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_176.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:965][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_195.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:966][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_182.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:966][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_157.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:966][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_185.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:966][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_162.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:967][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_208.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:967][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_167.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:967][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:967][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_198.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:968][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_25.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:968][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_20.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:969][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_5.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:969][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_14.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:969][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_10.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:970][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_13.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:970][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_8.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:970][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_30.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:971][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_3.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:972][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_5.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:973][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_2.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:973][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_5.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:973][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_9.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:973][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_19.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:974][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_31.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:974][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_12.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:974][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_38.BrushComponent0) Component already registered.
+[2019.01.16-21.18.19:975][888]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_24.BrushComponent0) Component already registered.
+[2019.01.16-21.18.42:268][392]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.18.47:763][ 22]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.18.50:976][385]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.18.59:069][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.19.07:705][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.19.24:101][967]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.19.26:062][184]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.19.28:098][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.19.35:223][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.20.09:545][ 30]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.20.14:473][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.20.14:548][614]Cmd: MODE ROTGRID=0
+[2019.01.16-21.20.15:420][711]Cmd: MODE ROTGRID=1
+[2019.01.16-21.20.19:880][169]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.20.26:560][953]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.20.33:399][729]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.20.54:137][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.21.46:401][820]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.22.10:623][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.22.37:550][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.22.43:651][291]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.23.20:374][355]Cmd: DELETE
+[2019.01.16-21.23.20:374][355]Cmd: ACTOR DELETE
+[2019.01.16-21.23.20:469][355]LogEditorActor: Deleted Actor: Brush
+[2019.01.16-21.23.20:928][355]LogEditorActor: Deleted 1 Actors (0.553 secs)
+[2019.01.16-21.23.22:583][512]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.23.48:563][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.24.26:736][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.24.57:280][720]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.24.58:020][804]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.24.59:403][804]LogSlate: Window 'Save Content' being destroyed
+[2019.01.16-21.25.00:174][892]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.25.01:144][  4]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.25.02:677][  4]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_MyCityBlockEE7264004AF36AAF80BAF6B2416890E8.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/JL_MyCityBlock.umap'
+[2019.01.16-21.25.02:727][  4]LogFileHelpers: Saving map 'JL_MyCityBlock' took 1.577
+[2019.01.16-21.25.42:177][868]Cmd: TRANSACTION UNDO
+[2019.01.16-21.25.42:177][868]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.25.42:399][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_96.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:400][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_83.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:400][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_119.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:400][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_88.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:401][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_129.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:401][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_114.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:401][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_124.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:402][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_101.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:402][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_56.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:402][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_59.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:403][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_64.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:403][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_54.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:404][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_106.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:404][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_77.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:406][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_164.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:406][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_165.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:407][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_371.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:408][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_157.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:408][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_152.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:408][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_177.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:408][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_172.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:409][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_132.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:410][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_119.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:411][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_145.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:412][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_135.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:413][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_44.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:413][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_6.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:414][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_51.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:415][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_42.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:416][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_10.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:442][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_36.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:442][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_31.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:443][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_20.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:443][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:443][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_40.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:445][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_25.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:445][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_28.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:446][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_96.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:446][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_40.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:447][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_23.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:449][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_35.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:451][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_48.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:451][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_14.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:454][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_37.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:455][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_71.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:456][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_77.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:456][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_18.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:457][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_232.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:458][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_176.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:458][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_237.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:459][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_222.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:460][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_223.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:460][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_1.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:461][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_9.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:462][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_177.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:463][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_245.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:464][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_162.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:467][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_164.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:468][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_3.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:468][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_31.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:468][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_11.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:468][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_21.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:468][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_16.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:469][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_21.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:469][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_25.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:469][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_11.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:470][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_4.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:470][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_12.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:470][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_20.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:471][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_8.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:472][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_17.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:472][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_13.BrushComponent0) Component already registered.
+[2019.01.16-21.25.42:473][868]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_39.BrushComponent0) Component already registered.
+[2019.01.16-21.25.43:665][971]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.25.51:350][819]Cmd: TRANSACTION UNDO
+[2019.01.16-21.25.51:350][819]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.25.51:557][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_41.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:558][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_64.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:560][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_23.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:560][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_38.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:561][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_101.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:566][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_79.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:566][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_4.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:567][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_9.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:593][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_72.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:595][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_73.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:599][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_49.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:603][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_7.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:604][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_2.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:617][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_35.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:622][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_153.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:626][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_127.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:627][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_134.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:631][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_69.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:632][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_216.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:635][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_65.BrushComponent0) Component already registered.
+[2019.01.16-21.25.51:636][819]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_191.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:455][163]Cmd: TRANSACTION UNDO
+[2019.01.16-21.26.16:455][163]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.26.16:662][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_103.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:663][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_43.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:664][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_47.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:664][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_108.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:665][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_56.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:665][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_49.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:744][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_164.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:745][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_200.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:745][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_72.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:745][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:746][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_213.BrushComponent0) Component already registered.
+[2019.01.16-21.26.16:746][163]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_74.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:495][247]Cmd: TRANSACTION UNDO
+[2019.01.16-21.26.37:495][247]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.26.37:722][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_55.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:722][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_123.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:723][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_118.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:723][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_53.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:723][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_93.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:724][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_130.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:724][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_122.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:724][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_118.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:724][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_108.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:725][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_112.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:725][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_68.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:726][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_63.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:726][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_58.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:727][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_83.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:727][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_52.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:728][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_73.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:728][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_116.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:728][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_78.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:729][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_177.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:729][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_172.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:730][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_159.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:730][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_164.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:730][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_167.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:730][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_187.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:730][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_158.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:731][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_192.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:731][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_182.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:732][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_156.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:732][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_135.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:733][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_139.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:733][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_138.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:733][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_130.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:733][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_125.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:734][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_63.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:735][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_150.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:735][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_145.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:736][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_1.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:736][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_21.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:736][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_44.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:736][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_16.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:737][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_9.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:738][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_55.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:738][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_47.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:738][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_6.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:739][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_11.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:739][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_24.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:739][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_6.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:761][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_11.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:762][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_4.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:762][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_36.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:763][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_20.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:763][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_40.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:763][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_28.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:764][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_44.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:764][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_35.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:764][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_31.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:764][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_91.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:765][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_25.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:765][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_45.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:765][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_50.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:766][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_103.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:766][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_101.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:766][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_38.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:767][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_33.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:768][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_65.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:768][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_30.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:768][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_83.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:769][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_82.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:769][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_74.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:769][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_128.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:770][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_36.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:771][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_251.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:771][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_246.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:771][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_233.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:772][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_238.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:772][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_175.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:772][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_11.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:773][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_6.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:773][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_16.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:773][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_9.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:774][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_6.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:775][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_163.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:775][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_167.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:776][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_211.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:776][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_197.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:776][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_161.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:777][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_229.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:778][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_170.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:778][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_219.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:778][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_13.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:779][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_17.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:779][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_22.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:780][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_29.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:780][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_2.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:781][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_34.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:781][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_29.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:781][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_33.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:782][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_35.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:783][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_40.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:783][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_8.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:783][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_20.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:784][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_24.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:786][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_12.BrushComponent0) Component already registered.
+[2019.01.16-21.26.37:786][247]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_7.BrushComponent0) Component already registered.
+[2019.01.16-21.26.41:875][639]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.26.51:475][704]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.26.53:013][887]Cmd: TRANSACTION UNDO
+[2019.01.16-21.26.53:013][887]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.26.53:223][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_49.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:225][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_91.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:226][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_26.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:226][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_69.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:230][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_58.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:233][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_74.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:234][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_113.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:237][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_122.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:242][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_7.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:242][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_12.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:270][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_17.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:270][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_22.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:272][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_35.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:273][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_52.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:273][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_53.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:275][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_6.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:276][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_22.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:281][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_242.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:286][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_16.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:287][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_149.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:288][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_170.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:292][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_202.BrushComponent0) Component already registered.
+[2019.01.16-21.26.53:292][887]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_223.BrushComponent0) Component already registered.
+[2019.01.16-21.26.58:088][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.28.32:927][856]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.28.34:795][ 62]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.28.36:045][ 62]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_MyCityBlockFD0A7F4F4AEB4AC96CAA76A86DEBB718.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/JL_MyCityBlock.umap'
+[2019.01.16-21.28.36:095][ 62]LogFileHelpers: Saving map 'JL_MyCityBlock' took 1.295
+[2019.01.16-21.28.42:638][822]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.29.35:725][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.29.37:565][484]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.29.41:327][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.29.56:560][490]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.30.02:934][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.30.30:375][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.30.49:287][297]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.30.58:106][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.31.19:658][703]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.31.54:186][127]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.32.59:855][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.33.00:924][697]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.33.02:438][841]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.33.29:944][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.33.35:350][430]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.33.43:066][129]Cmd: TRANSACTION UNDO
+[2019.01.16-21.33.43:066][129]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.33.43:313][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_115.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:313][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_109.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:313][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_110.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:314][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_370.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:315][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_125.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:315][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_102.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:315][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_60.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:316][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_133.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:316][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_134.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:316][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_133.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:316][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_122.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:317][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_58.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:318][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_74.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:318][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_117.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:318][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_51.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:319][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_69.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:319][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_50.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:319][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_66.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:319][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_122.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:320][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_98.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:320][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_99.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:321][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_91.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:321][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_87.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:321][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_88.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:321][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_194.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:322][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_190.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:322][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_191.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:322][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_177.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:322][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_156.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:323][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_157.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:323][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_164.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:323][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_205.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:324][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_209.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:324][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_165.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:324][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_196.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:324][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_159.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:325][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_160.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:325][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_201.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:325][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_202.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:326][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_153.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:326][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_154.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:326][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_145.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:326][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_142.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:326][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_143.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:327][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_144.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:327][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_140.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:327][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_65.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:328][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_66.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:328][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_157.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:328][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_158.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:328][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_166.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:328][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_161.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:329][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_42.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:329][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_4.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:329][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_57.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:329][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_21.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:330][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_15.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:330][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_9.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:330][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_10.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:330][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_20.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:330][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_1.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:331][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_28.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:331][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_54.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:332][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_49.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:332][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_47.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:332][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_23.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:332][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_52.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:333][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_18.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:333][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_14.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:333][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_29.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:358][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_11.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:358][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_13.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:358][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_37.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:358][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_32.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:358][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_6.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:359][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_1.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:360][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_27.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:360][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_21.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:360][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_22.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:360][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush3.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:360][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.CylinderBrush4.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:361][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_39.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:361][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_98.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:361][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_41.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:361][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_101.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:362][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_28.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:362][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_29.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:363][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_48.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:363][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_61.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:363][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_62.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:364][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_104.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:364][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_50.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:364][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_51.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:364][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_18.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:364][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_71.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:365][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_66.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:365][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_30.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:365][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_13.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:366][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_32.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:366][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_24.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:366][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_88.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:366][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_26.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:366][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_91.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:367][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_37.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:367][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_20.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:367][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_127.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:367][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_22.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:368][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_5.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:368][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_17.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:369][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_23.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:369][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_7.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:370][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_3.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:371][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_9.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:371][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_37.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:371][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_38.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:371][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_5.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:372][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_CactusTip_14.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:372][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_24.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:373][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_29.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:373][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_30.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:373][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_225.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:373][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_73.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:374][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_231.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:374][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_226.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:374][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_218.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:374][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_212.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:375][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_213.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:375][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_169.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:375][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_170.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:375][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_247.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:375][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_242.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:376][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_174.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:376][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_234.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:376][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_235.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:377][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_177.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:377][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_48.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:377][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_57.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:377][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_58.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:378][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_43.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:379][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_39.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:379][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_40.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:379][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_77.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:380][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_72.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:380][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_68.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:380][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_69.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:380][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_25.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:381][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_26.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:381][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_2.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:381][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_29.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:382][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_14.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:382][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_15.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:382][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_22.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:382][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_23.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:383][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_30.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:383][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_25.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:383][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_3.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:384][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_11.BrushComponent0) Component already registered.
+[2019.01.16-21.33.43:384][129]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_12.BrushComponent0) Component already registered.
+[2019.01.16-21.33.58:476][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.34.10:059][927]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.34.36:386][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.34.47:835][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.34.59:323][ 80]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.35.17:583][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.35.55:660][428]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.36.09:582][952]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.36.11:108][112]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2019.01.16-21.36.17:448][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.36.47:386][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.36.55:466][901]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.37.02:463][631]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.37.07:929][193]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.37.10:435][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.37.21:764][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.37.31:983][598]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.37.41:829][700]Cmd: TRANSACTION UNDO
+[2019.01.16-21.37.41:829][700]LogEditorTransaction: Undo Move Actors
+[2019.01.16-21.37.42:057][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_115.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:059][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_37.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:062][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_118.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:066][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_11.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:103][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_SideWalk_32.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:106][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingBase_30.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:108][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Cactus_7.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:112][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_51.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:116][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_BuildingWall_145.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:121][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_151.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:125][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_153.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:126][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_159.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:127][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.BrushSt_175.BrushComponent0) Component already registered.
+[2019.01.16-21.37.42:130][700]LogActorComponent: ~FComponentReregisterContext: (/Game/JL_MyCityBlock.JL_MyCityBlock:PersistentLevel.Brush_Grass_221.BrushComponent0) Component already registered.
+[2019.01.16-21.37.45:800][ 72]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.37.54:007][978]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.38.03:837][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.01.16-21.38.45:888][633]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.38.53:463][410]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.01.16-21.39.06:664][820]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.39.08:185][984]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-21.39.09:403][984]LogSavePackage: Moving '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Saved/JL_MyCityBlockFCEAB20D4784CB6E3A08319254CBF6B9.tmp' to '../../../../../../Users/u1130123/Documents/GitHub/JL_AssetPipeline/White Box Level Design Assignment/JL_InClassSec2/Content/JL_MyCityBlock.umap'
+[2019.01.16-21.39.09:442][984]LogFileHelpers: Saving map 'JL_MyCityBlock' took 1.246
